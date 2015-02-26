@@ -1,0 +1,4 @@
+FocusSearch.safariextension/*.png
+FocusSearch.safariextension/*.html
+FocusSearch.safariextension/*.js
+node_modules/
